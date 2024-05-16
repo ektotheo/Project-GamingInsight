@@ -22,16 +22,16 @@ Wir streben danach, eine effektive und wertvolle Informationsressource für die 
 
 # Todo 01/05-16/05/2024
 
-Ekber: Repository Setup und Grundlagen der Dokumentation
+**Ekber**: Repository Setup und Grundlagen der Dokumentation
 1. # GitHub Repository erstellen
 2. Basisdokumentation im Repo anlegen, Erstelle eine README.md Datei, die eine Kurzbeschreibung des Projekts, die Value Proposition und grundlegende Installationshinweise enthält.
 3. **Dokumentationsstruktur planen**: Entwerfe eine vorläufige Struktur für die Dokumentationswebsite, inklusive Hauptsektionen und Unterseiten.
 
-Sercan: Datenmodell und UI-Entwurf
-1. **Datenmodell dokumentieren**: Erstelle Dokumentation für das Datenmodell, das in der Anwendung verwendet wird. Dies sollte Modelldiagramme und Beschreibungen der einzelnen Entitäten beinhalten.
-2. **UI-Screens planen und dokumentieren**: Skizziere die Benutzeroberflächen und erstelle Mockups der Hauptbildschirme der App. Füge eine Beschreibung und Screenshots in die Dokumentation ein.
+**Sercan**: Datenmodell und UI-Entwurf
+1. **Datenmodell dokumentieren**:  Dokumentation erstellen für das Datenmodell, das in der Anwendung verwendet wird. Dies sollte Modelldiagramme und Beschreibungen der einzelnen Entitäten beinhalten.
+2. **David**:UI-Screens planen und dokumentieren**: die Benutzeroberflächen skizzieren und erstelle Mockups der Hauptbildschirme der App. Füge eine Beschreibung und Screenshots in die Dokumentation ein.
 
-Team: Dokumentationswebsite und Verantwortlichkeiten
-1. **GitHub Pages aktivieren**: Richte GitHub Pages für das Repository ein, um die Dokumentation online verfügbar zu machen.
+**Ekber**: Dokumentationswebsite und Verantwortlichkeiten
+1. **GitHub Pages aktivieren**
 2. **Inhalt für die Dokumentationswebsite erstellen**: Füge alle bereits verfügbaren Materialien zur Website hinzu und strukturiere sie entsprechend der vorher geplanten Dokumentationsstruktur.
-3. **Verantwortlichkeiten zuordnen**: Dokumentiere, welche Teammitglieder für welche Abschnitte der Dokumentation verantwortlich sind. Dies sollte in einem Abschnitt auf der Website ersichtlich sein.
+3. **Verantwortlichkeiten zuordnen**: Welches Teammitglied ist für welche Abschnitte der Dokumentation verantwortlich. Muss in einem Abschnitt auf der Website ersichtlich sein.
