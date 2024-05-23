@@ -1,9 +1,14 @@
+# Inhaltsverzeichnis
 
-# Übersicht der App-Idee und Wertversprechen:
+# 1. Einleitung
+..........
+
+
+# 2. Übersicht der App-Idee und Wertversprechen:
 
 GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente und verlässliche Informationen über Unternehmen in der Gaming-Industrie bereitzustellen. Die Plattform ermöglicht es Benutzern, ähnlich wie auf Kununu und Glassdoor, Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Das Ziel von GamingInsight ist es, eine Informationsressource zu bieten, die Spielentwicklern, Designern, Testern und anderen Fachleuten hilft, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt darin, eine Plattform bereitzustellen, die Arbeitssuchenden hilft, den nächsten Schritt in ihrer Karriere zu finden, und gleichzeitig bestehenden Mitarbeitern eine Möglichkeit bietet, ihre Arbeitsbedingungen zu bewerten und transparent darzustellen.
 
-# Funktionalitäten:
+# 3. Funktionalitäten:
 
 1. **Benutzer-Authentifizierung**: Benutzer können sich anmelden, um Bewertungen abzugeben und ihre Profile zu verwalten.
 2. **Unternehmenssuche:** Benutzer können spezifische Unternehmen in der Gaming-Industrie suchen und Profile dieser Unternehmen einsehen.
@@ -13,6 +18,38 @@ GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente
 6. **Benutzerprofile:** Benutzer können ihr berufliches Profil verwalten und Informationen über ihre berufliche Laufbahn und Interessen teilen.
 7. **Bestenliste einsehen:** Nutzer können eine Liste der Unternehmen mit den höchsten Bewertungen einsehen.
 8. **Gastzugang:** Gäste können die Plattform nutzen, jedoch ohne Zugriff auf die Bestenliste oder die Möglichkeit, Bewertungen abzugeben und Kommentare zu lesen.
+
+
+# 4. Technische Details
+    *Technologie-Stack*
+    *Architektur der Anwendung*
+    *Datenbankdesign*
+# 5. Implementierung
+    *Backend backend*
+    *Frontend frontend*
+    *API*
+# 6. Tests
+    *Unit-Tests*
+    *End-to-End-Tests*
+    
+# 7. Deployment
+    *Setup-Anleitung*
+    *CI/CD-Integration*
+    
+# 8. Benutzerhandbuch
+    *Registrierung und Anmeldung*
+    *Nutzung der Unternehmenssuche*
+    *Bewertungen lesen und abgeben*
+    *Verwaltung des Benutzerprofils*
+
+# 10. Zukunftsperspektiven
+# 11. Anhang
+    *Quellcode*
+    *Diagramme*
+    
+    *Literaturverzeichnis*
+
+
 
 # Ziele:
 
