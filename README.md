@@ -35,7 +35,6 @@ Wir streben danach, eine effektive und wertvolle Informationsressource für die 
 # Todo 01/05-16/05/2024
 
 # Ekber:
-Repository Setup und Grundlagen der Dokumentation
 1. # GitHub Repository erstellen
 2. Basisdokumentation im Repo anlegen, Erstelle eine README.md Datei, die eine Kurzbeschreibung des Projekts, die Value Proposition und grundlegende Installationshinweise enthält.
 3. **Dokumentationsstruktur planen**: Entwerfe eine vorläufige Struktur für die Dokumentationswebsite, inklusive Hauptsektionen und Unterseiten.
