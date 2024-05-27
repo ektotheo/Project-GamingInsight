@@ -1,14 +1,8 @@
-# Inhaltsverzeichnis
-
-# 1. Einleitung
-..........
-
-
-# 2. Übersicht der App-Idee und Wertversprechen:
+# 1. Value Proposition:
 
 GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente und verlässliche Informationen über Unternehmen in der Gaming-Industrie bereitzustellen. Die Plattform ermöglicht es Benutzern, ähnlich wie auf Kununu und Glassdoor, Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Das Ziel von GamingInsight ist es, eine Informationsressource zu bieten, die Spielentwicklern, Designern, Testern und anderen Fachleuten hilft, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt darin, eine Plattform bereitzustellen, die Arbeitssuchenden hilft, den nächsten Schritt in ihrer Karriere zu finden, und gleichzeitig bestehenden Mitarbeitern eine Möglichkeit bietet, ihre Arbeitsbedingungen zu bewerten und transparent darzustellen.
 
-# 3. Funktionalitäten:
+# 2. Funktionalitäten:
 
 1. **Benutzer-Authentifizierung**: Benutzer können sich anmelden, um Bewertungen abzugeben und ihre Profile zu verwalten.
 2. **Unternehmenssuche:** Benutzer können spezifische Unternehmen in der Gaming-Industrie suchen und Profile dieser Unternehmen einsehen.
@@ -19,53 +13,20 @@ GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente
 7. **Bestenliste einsehen:** Nutzer können eine Liste der Unternehmen mit den höchsten Bewertungen einsehen.
 8. **Gastzugang:** Gäste können die Plattform nutzen, jedoch ohne Zugriff auf die Bestenliste oder die Möglichkeit, Bewertungen abzugeben und Kommentare zu lesen.
 
-
-# 4. Technische Details
-    *Technologie-Stack*
-    *Architektur der Anwendung*
-    *Datenbankdesign*
-# 5. Implementierung
-    *Backend backend*
-    *Frontend frontend*
-    *API*
-# 6. Tests
-    *Unit-Tests*
-    *End-to-End-Tests*
-    
-# 7. Deployment
-    *Setup-Anleitung*
-    *CI/CD-Integration*
-    
-# 8. Benutzerhandbuch
-    *Registrierung und Anmeldung*
-    *Nutzung der Unternehmenssuche*
-    *Bewertungen lesen und abgeben*
-    *Verwaltung des Benutzerprofils*
-
-# 10. Zukunftsperspektiven
-# 11. Anhang
-    *Quellcode*
-    *Diagramme*
-    
-    *Literaturverzeichnis*
-
-
-
 # Ziele:
 
 Wir streben danach, eine effektive und wertvolle Informationsressource für die Gaming-Community zu entwickeln, die Transparenz und Fairness in der Gaming-Branche fördert.
 
 
-
 # Todo 01/05-16/05/2024
 
-# Ekber
+# Ekber:
 Repository Setup und Grundlagen der Dokumentation
 1. # GitHub Repository erstellen
 2. Basisdokumentation im Repo anlegen, Erstelle eine README.md Datei, die eine Kurzbeschreibung des Projekts, die Value Proposition und grundlegende Installationshinweise enthält.
 3. **Dokumentationsstruktur planen**: Entwerfe eine vorläufige Struktur für die Dokumentationswebsite, inklusive Hauptsektionen und Unterseiten.
 
-# Sercan: Datenmodell und UI-Entwurf
+# Sercan: ER Modell und UI-Entwurf
 1. **Datenmodell dokumentieren**:  Dokumentation erstellen für das Datenmodell, das in der Anwendung verwendet wird. Dies sollte Modelldiagramme und Beschreibungen der einzelnen Entitäten beinhalten.
 
 # David: UI-Screens planen und dokumentieren**: 
