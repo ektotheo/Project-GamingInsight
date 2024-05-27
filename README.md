@@ -13,7 +13,7 @@ GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente
 7. **Bestenliste einsehen:** Nutzer können eine Liste der Unternehmen mit den höchsten Bewertungen einsehen.
 8. **Gastzugang:** Gäste können die Plattform nutzen, jedoch ohne Zugriff auf die Bestenliste oder die Möglichkeit, Bewertungen abzugeben und Kommentare zu lesen.
 
-# 3. Data Model:
+# 3. ER Modell Data Model:
 
 ![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)![Entity-Relationship-Diagramm - Rahmen 1]
 
