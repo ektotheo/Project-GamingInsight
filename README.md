@@ -15,7 +15,8 @@ GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente
 
 # 3. ER Modell Data Model:
 
-![Entity-Relationship-Diagramm - Rahmen 1]
+![Entity-Relationship-Diagramm - Rahmen 1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/9ae37bf4-9122-4886-8441-508426ff7e61)
+
 
 # 4. UI Design:
 
