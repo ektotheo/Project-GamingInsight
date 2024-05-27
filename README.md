@@ -13,6 +13,19 @@ GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente
 7. **Bestenliste einsehen:** Nutzer können eine Liste der Unternehmen mit den höchsten Bewertungen einsehen.
 8. **Gastzugang:** Gäste können die Plattform nutzen, jedoch ohne Zugriff auf die Bestenliste oder die Möglichkeit, Bewertungen abzugeben und Kommentare zu lesen.
 
+# 3. Data Model:
+
+![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)![Entity-Relationship-Diagramm - Rahmen 1]
+
+# 4. UI Design:
+
+![Ui-6](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/ef88ed53-ffce-49a1-8ff7-f4c5b3093911)
+![Ui-5](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/4f9ae9a8-7491-4846-a0a2-0ea7b4b379c6)
+![Ui-4](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/3ca71482-892b-4720-9bb4-0fa727e7f5c5)
+![Ui-3](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/70c049f0-d22f-479d-8207-b4f1d2204062)
+![Ui-2](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/8050df81-d350-47f6-8fea-7958df2951e1)
+![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)
+
 # Ziele:
 
 Wir streben danach, eine effektive und wertvolle Informationsressource für die Gaming-Community zu entwickeln, die Transparenz und Fairness in der Gaming-Branche fördert.
