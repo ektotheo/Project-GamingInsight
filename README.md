@@ -1,6 +1,6 @@
 
 
-## (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen um damit dementsprechend besser arbeiten zu können)
+## (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen um damit dementsprechend besser arbeiten zu können PS. Wir haben selbstverständlich bislang experimentiert und haben bereits einiges erreicht, allerdings konnten wir es nicht richtig verknüpfen mit GitHub, sodass die Codezeilen ersichtlich sind)
 
 
 # Link zur Website:
