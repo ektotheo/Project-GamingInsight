@@ -37,21 +37,11 @@ GamingInsight ist eine Web-Plattform, die sich darauf spezialisiert hat, transpa
 ![Ui-2](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/8050df81-d350-47f6-8fea-7958df2951e1)
 ![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)
 
-# Ziele:
-
-Unser Ziel ist es, eine transparente und Benutzerfreundliche Bewertungsplattform für Arbeitsuchende in der Gaming Industrie zu erstellen, wo Sie bewertungen von ehemaligen oder aktuellen Beschäftigten des jeweiligen Unternehmens einsehen können!
 
 # Todo List 01/05-29/05/2024 (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen und dementsprechend es besser zu gestalten und zu nutzen)
 
-# Ekber: GitHub Repository erstellen
-3. **Dokumentationsstruktur planen**: (HINWEIS: Wir sind hier noch dabei, 
+# Ekber: GitHub Repository & Pages erstellen und aktivieren - Dokumentation einfügen
 
 # Sercan: ER Modell und UI-Entwurf
-1. **Datenmodell dokumentieren**:  Dokumentation erstellen für das Datenmodell, das in der Anwendung verwendet wird. Dies sollte Modelldiagramme und Beschreibungen der einzelnen Entitäten beinhalten.
 
-# David: UI-Screens planen und dokumentieren**: 
-
-# Ekber: GitHub Pages
-1. **GitHub Pages aktivieren**
-2. **Inhalt für die Dokumentationswebsite erstellen**: Füge alle bereits verfügbaren Materialien zur Website hinzu und strukturiere sie entsprechend der vorher geplanten Dokumentationsstruktur.
-3. **Verantwortlichkeiten zuordnen**: Welches Teammitglied ist für welche Abschnitte der Dokumentation verantwortlich. Muss in einem Abschnitt auf der Website ersichtlich sein.
+# David: UI-Screens planen und dokumentieren**
