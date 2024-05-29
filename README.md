@@ -10,7 +10,7 @@ https://ektotheo.github.io/Project-GamingInsight/
 
 # 1. Value Proposition:
 
-GamingInsight ist eine Web-Plattform, die spezialisiert darauf ist, transparente und verlässliche Informationen über Unternehmen in der Gaming-Industrie bereitzustellen. Die Plattform ermöglicht es Benutzern, ähnlich wie auf Kununu und Glassdoor, Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Das Ziel von GamingInsight ist es, eine Informationsressource zu bieten, die Spielentwicklern, Designern, Testern und anderen Fachleuten hilft, wichtige Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt darin, eine Plattform bereitzustellen, die Arbeitssuchenden hilft, den nächsten Schritt in ihrer Karriere zu finden, und gleichzeitig bestehenden Mitarbeitern eine Möglichkeit bietet, ihre Arbeitsbedingungen zu bewerten und transparent darzustellen.
+GamingInsight ist eine Web-Plattform, die sich darauf spezialisiert hat, transparente und verlässliche Informationen über Unternehmen in der Gaming-Industrie bereitzustellen. Ähnlich wie Kununu und Glassdoor ermöglicht es GamingInsight den Nutzern, Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Unser Ziel ist es, eine hilfreiche Informationsquelle zu schaffen, die Entwicklern, Designern, Testern und anderen Fachleuten dabei hilft, wichtige Entscheidungen über potenzielle Arbeitgeber zu treffen. GamingInsight unterstützt Arbeitssuchende dabei, den nächsten Karriereschritt zu finden, und bietet aktuellen Mitarbeitern die Möglichkeit, ihre Arbeitsbedingungen zu bewerten und offen darzustellen.
 
 # 2. einige mögliche Funktionalitäten:
 
