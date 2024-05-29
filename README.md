@@ -1,6 +1,6 @@
 
 
-## (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen und dementsprechend es besser zu gestalten und zu nutzen)
+## (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen um damit dementsprechend besser arbeiten zu können)
 
 
 # Link zur Website:
