@@ -41,7 +41,7 @@ GamingInsight ist eine Web-Plattform, die sich darauf spezialisiert hat, transpa
 
 Unser Ziel ist es, eine transparente und Benutzerfreundliche Bewertungsplattform für Arbeitsuchende in der Gaming Industrie zu erstellen, wo Sie bewertungen von ehemaligen oder aktuellen Beschäftigten des jeweiligen Unternehmens einsehen können!
 
-# Todo 01/05-16/05/2024 (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen und dementsprechend es besser zu gestalten und zu nutzen)
+# Todo List 01/05-29/05/2024 (HINWEIS: Wir arbeiten noch daran, GitHub besser zu verstehen und dementsprechend es besser zu gestalten und zu nutzen)
 
 # Ekber: GitHub Repository erstellen
 3. **Dokumentationsstruktur planen**: (HINWEIS: Wir sind hier noch dabei, 
